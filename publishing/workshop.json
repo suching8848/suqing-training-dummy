@@ -1,0 +1,13 @@
+{
+  "publishedfileid": "3840189699",
+  "workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840189699",
+  "version": "0.1.0-rc.2",
+  "mod_versions": {
+    "SuQingTrainingDummy": "0.1.0-rc.2",
+    "SuQingTrainingDummyViewpoint": "0.1.0-rc.1"
+  },
+  "content_tree_sha256": "c061002723b0ede98c6e54e968a800d0abc2310c4539b32e47233657d25e28d7",
+  "visibility": "public",
+  "status": "verified_public",
+  "verified_at": "2026-11-15T18:17:46+08:00"
+}

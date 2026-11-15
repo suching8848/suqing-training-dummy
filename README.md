@@ -1,6 +1,6 @@
 # 蘇清的训练假人
 
-[English](README.en.md)
+[English](README.en.md) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3840189699)
 
 在 Project Zomboid 的原版建造菜单造一只训练假人，用平时的攻击操作练习六类近战武器。有效命中将相应经验写入原版技能面板。面向 Build 42.22.2 单人模式。
 

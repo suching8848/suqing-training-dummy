@@ -1,6 +1,6 @@
 # SuQing's Training Dummy
 
-[简体中文](README.md)
+[简体中文](README.md) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3840189699)
 
 Build a training dummy in the vanilla building menu and use normal melee attacks to train six weapon skills. Valid hits award XP through the vanilla skill system. Targets Project Zomboid Build 42.22.2 single-player.
 
