@@ -1,0 +1,6 @@
+{
+  "IGUI_SQTD_Name": "蘇清的训练假人",
+  "IGUI_SQTD_BuildDescription": "击中假人可获得对应武器的技能经验。",
+  "IGUI_SQTD_Condition": "训练假人耐久 %1 / %2",
+  "IGUI_SQTD_Repair": "维修训练假人"
+}

@@ -1,0 +1,9 @@
+{
+  "Sandbox_SuQingTrainingDummy": "蘇清的训练假人",
+  "Sandbox_SuQingTrainingDummy_MeleeXP": "每次近战命中的基础经验",
+  "Sandbox_SuQingTrainingDummy_MeleeXP_tooltip": "每次近战命中假人所得的基础经验。实际经验应用原版倍率。设为 0 可关闭近战训练经验。",
+  "Sandbox_SuQingTrainingDummy_EnableRangedTraining": "试验性枪械训练",
+  "Sandbox_SuQingTrainingDummy_EnableRangedTraining_tooltip": "默认关闭。开火后由模组选取同层且无遮挡的假人并判定命中。Viewpoint 与枪械模组需要游戏内验收。",
+  "Sandbox_SuQingTrainingDummy_AimingXP": "每次枪击命中的基础瞄准经验",
+  "Sandbox_SuQingTrainingDummy_AimingXP_tooltip": "开启试验性枪械训练后生效。命中假人每发结算一次，实际经验应用原版倍率。"
+}

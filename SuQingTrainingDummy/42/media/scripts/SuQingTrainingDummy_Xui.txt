@@ -1,0 +1,13 @@
+module Base
+{
+    xuiSkin default
+    {
+        entity ES_SuQingTrainingDummy
+        {
+            LuaWindowClass = ISEntityWindow,
+            DisplayName = IGUI_SQTD_Name,
+            BuildDescription = IGUI_SQTD_BuildDescription,
+            Icon = Item_SuQingTrainingDummy,
+        }
+    }
+}

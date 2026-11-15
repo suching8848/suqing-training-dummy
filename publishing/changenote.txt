@@ -1,0 +1,2 @@
+0.1.0-rc.2 · 首次发布。六类近战经验，每次有效近战命中固定扣 1 点假人耐久，含可选 Viewpoint 模型。试验性枪械训练默认关闭。
+Initial release with six melee skills, 1 HP wear per valid melee hit, and optional Viewpoint models. Experimental firearms training is off by default.

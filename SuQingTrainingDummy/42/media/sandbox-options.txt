@@ -1,0 +1,29 @@
+VERSION = 1,
+
+option SuQingTrainingDummy.MeleeXP
+{
+    type = double,
+    min = 0,
+    max = 100,
+    default = 0.5,
+    page = SuQingTrainingDummy,
+    translation = SuQingTrainingDummy_MeleeXP,
+}
+
+option SuQingTrainingDummy.EnableRangedTraining
+{
+    type = boolean,
+    default = false,
+    page = SuQingTrainingDummy,
+    translation = SuQingTrainingDummy_EnableRangedTraining,
+}
+
+option SuQingTrainingDummy.AimingXP
+{
+    type = double,
+    min = 0,
+    max = 100,
+    default = 1,
+    page = SuQingTrainingDummy,
+    translation = SuQingTrainingDummy_AimingXP,
+}

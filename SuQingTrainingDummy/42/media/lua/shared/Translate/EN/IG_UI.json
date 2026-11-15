@@ -1,0 +1,6 @@
+{
+  "IGUI_SQTD_Name": "SuQing's Training Dummy",
+  "IGUI_SQTD_BuildDescription": "Strike the dummy to train the skill of the weapon you use.",
+  "IGUI_SQTD_Condition": "Training dummy condition %1 / %2",
+  "IGUI_SQTD_Repair": "Repair training dummy"
+}

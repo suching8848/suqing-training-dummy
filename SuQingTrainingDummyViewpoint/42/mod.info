@@ -1,0 +1,11 @@
+name=SuQing's Training Dummy - Viewpoint
+namezh=蘇清的训练假人 - Viewpoint 模型
+id=SuQingTrainingDummyViewpoint
+author=SuQing
+modversion=0.1.0-rc.1
+versionMin=42.22.2
+versionMax=42.22
+require=\SuQingTrainingDummy,\Viewpoint
+icon=icon.png
+description=Adds the matching 3D training dummy for Project Viewpoint. Requires SuQing's Training Dummy and Viewpoint.
+descriptionzh=为 Project Viewpoint 加入训练假人的同款三维模型。需启用蘇清的训练假人及 Viewpoint。

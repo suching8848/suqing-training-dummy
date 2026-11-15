@@ -1,0 +1,9 @@
+{
+  "Sandbox_SuQingTrainingDummy": "SuQing's Training Dummy",
+  "Sandbox_SuQingTrainingDummy_MeleeXP": "Base XP per melee hit",
+  "Sandbox_SuQingTrainingDummy_MeleeXP_tooltip": "Base weapon skill XP earned each time a melee attack hits the dummy. Vanilla modifiers apply. Set to 0 to disable melee training XP.",
+  "Sandbox_SuQingTrainingDummy_EnableRangedTraining": "Experimental firearm training",
+  "Sandbox_SuQingTrainingDummy_EnableRangedTraining_tooltip": "Off by default. When a gun fires, the mod checks for an unobstructed training dummy on the same level and resolves a training hit. Viewpoint and firearm mods need playtesting.",
+  "Sandbox_SuQingTrainingDummy_AimingXP": "Base aiming XP per firearm hit",
+  "Sandbox_SuQingTrainingDummy_AimingXP_tooltip": "Applies when experimental firearm training is enabled. A shot awards XP once when it hits the dummy. Vanilla modifiers apply."
+}

@@ -1,0 +1,53 @@
+module SuQingTrainingDummy
+{
+    entity TrainingDummy
+    {
+        component UiConfig
+        {
+            xuiSkin = default,
+            entityStyle = ES_SuQingTrainingDummy,
+            uiEnabled = false,
+        }
+        component SpriteConfig
+        {
+            OnCreate = SuQingTrainingDummy.onCreate,
+            health = 300,
+            skillBaseHealth = 0,
+            bonusHealth = 0,
+            isThumpable = true,
+            breakSound = BreakObject,
+            face N
+            {
+                layer { row = suqing_training_dummy_01_0, }
+            }
+            face E
+            {
+                layer { row = suqing_training_dummy_01_1, }
+            }
+            face S
+            {
+                layer { row = suqing_training_dummy_01_2, }
+            }
+            face W
+            {
+                layer { row = suqing_training_dummy_01_3, }
+            }
+        }
+        component CraftRecipe
+        {
+            timedAction = BuildWoodenStructureSmall,
+            time = 70,
+            SkillRequired = Woodwork:1,
+            category = SuQingTrainingDummy,
+            Tags = IGUI_SQTD_Name,
+            Tooltip = Tooltip_SQTD_Build,
+            inputs
+            {
+                item 1 tags[base:hammer] mode:keep flags[NoBrokenItems;ItemCount;Prop1],
+                item 4 [Base.Plank] mode:destroy flags[ItemCount],
+                item 6 [Base.Nails] mode:destroy flags[ItemCount],
+                item 4 [Base.RippedSheets] mode:destroy flags[ItemCount],
+            }
+        }
+    }
+}
