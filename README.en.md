@@ -21,4 +21,4 @@ Experimental firearms training is off by default. When enabled, the candidate ch
 
 ## Test package
 
-Close the game and place the two mod folders from the archive in the `mods` folder under your user data directory. Enable the main mod in a separate test save. With Project Viewpoint 0.1.6.2, enable the optional model in your save. With 0.1.7, enable the main mod and the optional model from the main menu, then enable the Training Dummy resource pack on Viewpoint's Add-ons page. The main mod supplies the isometric tiles. Break placed dummies in the test save before removing the main mod.
+Close the game and place the two mod folders from the archive in the `mods` folder under your user data directory. Enable the main mod in a separate test save. With Project Viewpoint 0.1.6.2, enable the optional model in your save. With 0.1.7, enable the main mod and the optional model from the main menu, then enable the Training Dummy resource pack under Graphics → Resource Packs in Viewpoint. The main mod supplies the isometric tiles. Break placed dummies in the test save before removing the main mod.

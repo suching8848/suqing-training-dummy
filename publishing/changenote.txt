@@ -1,2 +1,2 @@
-配套模型 0.1.0-rc.2。训练假人模型现可在 Viewpoint 0.1.7 的附加组件页面启用，也支持 Viewpoint 0.1.6.2 的存档加载方式。
-Optional model 0.1.0-rc.2. Enable the Training Dummy model on the Add-ons page in Project Viewpoint 0.1.7. The model can also be enabled in the save with Viewpoint 0.1.6.2.
+配套模型 0.1.0-rc.2。训练假人模型现可在 Viewpoint 0.1.7 的图形设置 → 资源包启用，也支持 Viewpoint 0.1.6.2 的存档加载方式。
+Optional model 0.1.0-rc.2. Enable the Training Dummy model under Graphics → Resource Packs in Project Viewpoint 0.1.7. The model can also be enabled in the save with Viewpoint 0.1.6.2.
