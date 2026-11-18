@@ -215,7 +215,7 @@ def render(mesh, texture, rotation, size, scale, origin):
 
 
 def export_viewpoint(mesh, texture):
-    media = ADDON / "media/viewpoint"
+    media = ADDON / "media/viewpoint/resourcepacks/suqing-training-dummy-models"
     media.mkdir(parents=True, exist_ok=True)
     (media / "dummy.mtl").write_text(
         "newmtl dummy_atlas\nKa 1 1 1\nKd 1 1 1\nKs 0.05 0.05 0.05\n"

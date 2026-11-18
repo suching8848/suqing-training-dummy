@@ -8,7 +8,7 @@
 [*]试验性枪械训练默认关闭。开启后，同层、至少 3 格距离且无遮挡的射击可按瞄线判定训练命中，默认给 1 基础瞄准 XP。枪械模组和 Viewpoint 下的瞄准行为待验收。
 [/list]
 
-[b]Build 42.22.2 单人[/b]。主模组为 [b]SuQingTrainingDummy[/b]。可选子模组 [b]SuQingTrainingDummyViewpoint[/b] 增加同款三维模型，需要主模组及 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3809306528]Project Viewpoint[/url]。本体随附四方向普通贴图。停用主模组前请先打坏已放置的假人。
+[b]Build 42.22.2 单人[/b]。主模组为 [b]SuQingTrainingDummy[/b]。可选子模组 [b]SuQingTrainingDummyViewpoint[/b] 增加同款三维模型，需要主模组及 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3809306528]Project Viewpoint[/url]。本体随附四方向普通贴图。使用 Viewpoint 0.1.7 时，在主菜单的模组列表启用主模组和配套模型，再到 Viewpoint 的附加组件（Add-ons）页面启用训练假人资源包。Viewpoint 0.1.6.2 用户可直接在存档启用配套模型。停用主模组前请先打坏已放置的假人。
 
 [h1]SuQing's Training Dummy[/h1]
 Build a training dummy at your base and practice axe, long blunt, short blunt, long blade, short blade and spear weapons with normal attacks. Valid hits award XP for the weapon's vanilla skill.
@@ -20,6 +20,6 @@ Build a training dummy at your base and practice axe, long blunt, short blunt, l
 [*]Experimental firearms training is off by default. An unobstructed aim ray on the same floor from at least 3 tiles away can award 1 base Aiming XP per valid shot by default. Firearm mods and Viewpoint aiming await in-game verification.
 [/list]
 
-[b]Build 42.22.2 single-player[/b]. Enable [b]SuQingTrainingDummy[/b] for normal isometric sprites. The optional [b]SuQingTrainingDummyViewpoint[/b] submod adds the matching 3D model and requires the main mod and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3809306528]Project Viewpoint[/url]. Break placed dummies before removing the main mod.
+[b]Build 42.22.2 single-player[/b]. Enable [b]SuQingTrainingDummy[/b] for normal isometric sprites. The optional [b]SuQingTrainingDummyViewpoint[/b] submod adds the matching 3D model and requires the main mod and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3809306528]Project Viewpoint[/url]. With Viewpoint 0.1.7, enable both mods from the main menu, then enable the Training Dummy resource pack on Viewpoint's Add-ons page. With 0.1.6.2, enable the optional model in the save. Break placed dummies before removing the main mod.
 
 [url=https://github.com/suching8848/suqing-training-dummy]GitHub 源码 / Source[/url]
